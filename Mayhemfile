@@ -1,0 +1,5 @@
+project: go-mp4
+target: go-mp4
+
+cmds:
+  - cmd: /mp4tool dump @@
